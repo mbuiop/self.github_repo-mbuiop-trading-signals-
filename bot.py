@@ -18,7 +18,7 @@ class AdvancedTradingBot:
             "قالب چهار": {"rsi": 35, "ema20": 15, "ema50": 30, "upper": 8, "macd": 12},
             "قالب پنج": {"rsi": 28, "ema20": 22, "ema50": 22, "upper": 14, "macd": 14}
         }
-        self.github_token = "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"
+        self.github_token = "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"
         self.github_repo = self.github_repo = "mbuiop/trading-signals"  # باید با اطلاعات واقعی جایگزین شود
         self.github_file_path = "m1.json"
         
