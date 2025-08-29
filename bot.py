@@ -19,7 +19,7 @@ class AdvancedTradingBot:
             "قالب پنج": {"rsi": 28, "ema20": 22, "ema50": 22, "upper": 14, "macd": 14}
         }
         self.github_token = "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"
-        self.github_repo = "your_username/your_repository"  # باید با اطلاعات واقعی جایگزین شود
+        self.github_repo = self.github_repo = "mbuiop/trading-signals"  # باید با اطلاعات واقعی جایگزین شود
         self.github_file_path = "m1.json"
         
     def load_data(self):
